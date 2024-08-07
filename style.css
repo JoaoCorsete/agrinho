@@ -6,5 +6,8 @@
 
 }
 * {
-    background-color: green;
+    background-color: rgb(50, 238, 50);
+    text-align: center;
+    color: rgb(15, 15, 128);
+    font-size: 130%;
 }
